@@ -2,14 +2,14 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.enjin.averian-roleplay</groupId>
   <artifactId>averiandroprates</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <name>AverianDropRates</name>
   <description>Alters drop rates</description>
   <scm>
     <connection>scm:git:https://github.com/Averian/AverianDropRates.git</connection>
     <url>https://github.com/Averian/AverianDropRates</url>
     <developerConnection>scm:git:https://github.com/Averian/AverianDropRates.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v0.0.1</tag>
   </scm>
   <repositories>
     <repository>
